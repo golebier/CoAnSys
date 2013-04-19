@@ -185,7 +185,6 @@
         <module>disambiguation-author</module>
         <module>document-classification</module>
         <module>document-similarity</module>
-        <module>importers</module>
         <module>integration</module>
         <module>logs-analysis</module>
         <module>keywords-extraction</module>
